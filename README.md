@@ -1,5 +1,5 @@
-# <h1 align="center"> API com Django 3: Django Rest Framework </h1>
-![API com Django 3: Django Rest Framework](https://user-images.githubusercontent.com/95968249/200914425-6d2494b4-dc2f-49b3-9774-e3fac934577e.png)<p align="center">
+# <h1 align="center"> Django: templates e boas práticas </h1>
+![Django: templates e boas práticas](https://user-images.githubusercontent.com/95968249/200914425-6d2494b4-dc2f-49b3-9774-e3fac934577e.png)<p align="center">
 
 <img src="https://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/uranolais/alura-git?style=for-the-badge"/>
